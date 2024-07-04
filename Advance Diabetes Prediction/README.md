@@ -46,11 +46,11 @@ http://localhost:8501
 
 ### Model Tuning and Visualizations
 
-![Model Tuning](image_2.jpeg)
+![Model Tuning](image_3.jpeg)
 
 ### Prediction and PDF Report Export
 
-![Prediction](image_3.jpeg)
+![Prediction](image_2.jpeg)
 
 ## About
 
