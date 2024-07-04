@@ -42,15 +42,15 @@ http://localhost:8501
 
 ### Data Summary and Patient Input
 
-![Data Summary](images_1.jpeg)
+![Data Summary](image_1.jpeg)
 
 ### Model Tuning and Visualizations
 
-![Model Tuning](images_2.jpeg)
+![Model Tuning](image_2.jpeg)
 
 ### Prediction and PDF Report Export
 
-![Prediction](images_3.jpeg)
+![Prediction](image_3.jpeg)
 
 ## About
 
