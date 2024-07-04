@@ -1,6 +1,8 @@
 # Diabetes Checkup Application
 
-![Diabetes Checkup](images/image_1.jpeg)
+![Diabetes Checkup](image_1.jpeg)
+
+Watch a demo of the code on [YouTube](https://youtu.be/H1wD3b9vyJw).
 
 This is a Streamlit-based application for predicting diabetes based on patient data. The application includes data visualization, model tuning, and report generation functionalities.
 
@@ -40,15 +42,15 @@ http://localhost:8501
 
 ### Data Summary and Patient Input
 
-![Data Summary](images/images_1.jpeg)
+![Data Summary](images_1.jpeg)
 
 ### Model Tuning and Visualizations
 
-![Model Tuning](images/images_2.jpeg)
+![Model Tuning](images_2.jpeg)
 
 ### Prediction and PDF Report Export
 
-![Prediction](images/images_3.jpeg)
+![Prediction](images_3.jpeg)
 
 ## About
 
