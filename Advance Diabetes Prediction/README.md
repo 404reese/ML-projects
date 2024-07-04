@@ -21,7 +21,7 @@ To run the application locally:
 
 1. Clone the repository:
  ```
-git clone https://github.com/your_username/diabetes-checkup.git
+git clone https://github.com/404reese/diabetes-checkup.git
 cd diabetes-checkup
 ```
 2. Install the required dependencies:
