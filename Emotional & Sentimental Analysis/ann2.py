@@ -41,7 +41,7 @@ for sentiment_score in sentiment_scores:
         sentiment_classes.append("highly negative")
 
 # Streamlit app
-st.title("Sentiment and Emotion Analysis On Customer Feedback")
+st.title("Sentiment and Emotion Analysis")
 
 # Take input from the user
 user_input = st.text_area("Enter customer feedback:")
